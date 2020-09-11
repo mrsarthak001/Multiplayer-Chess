@@ -28,8 +28,8 @@ Initially we are working with 2 player game. Later we will step up with multipla
 
 ## Contributors
 
-1. [s](https://github.com/kshitizsaini113)
-
+1. [Sarthak Jain](https://github.com/mrsarthak001)
+2. [Siddharth Chopra](https://github.com/snapsid)
 
 ---
 
