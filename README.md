@@ -1,6 +1,6 @@
 # Multiplayer-Chess
 
-Our aim is to make a multiplayer chess engine with the better efficiency.
+Our Aim is to make a multiplayer chess engine with the better efficiency.
 
 Sub-objectives of the project are : 
 * Designing the 8 * 8 chess board.
@@ -17,11 +17,14 @@ The game provides human to human capability for both playing and learning, in wh
 
 ***Keyword :*** *chessboard and pieces, human to human capability.*
 
-## Aim
+## Introduction
 
 ![Methodology](img/Methodology.png)
 
-This project focuses on implementing **Layer 2 i.e. Data-Link Layer** of TCP/IP Stack. The project mainly focuses on Graph Data Structures highlighting the features of Generic Graph Topology. The project will use routers, switches, links as well as nodes to depict the overall functionality of network topology, the entire packet journey (on sending and receiving machines) through the Data Link Layer of TCP/IP Model along with a minimal use of Socket Programming will be shown in this project.
+In the last five years the strength of computer chess programs has grown immensely. They have a place with easygoing games, and it requires two players to continue on a chessboard of size 8 * 8. The guidelines of this game are straightforward yet have boundless ways to move pieces, thus each step is urgent to the player. 
+
+Initially we are working with 2 player game. Later we will step up with multiplayers with similar algorithm. This program for chess will be the most efficient one till now in C language. The program supports a reasonable number of functions and the game will be in 2D. This game will be played in same system by the two different players.
+
 
 ## Contributors
 
