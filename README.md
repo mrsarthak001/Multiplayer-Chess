@@ -30,7 +30,7 @@ Initially we are working with 2 player game. Later we will step up with multipla
 
 1. [Sarthak Jain](https://github.com/mrsarthak001)
 2. [Siddharth Chopra](https://github.com/snapsid)
-
+3. [Muskaan Madan](https://github.com/mackiie)
 ---
 
 Full documentation of the project is available under [Project Synopsis](Synopsis_Report/SynopsisReport.pdf)
