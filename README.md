@@ -19,8 +19,6 @@ The game provides human to human capability for both playing and learning, in wh
 
 ## Introduction
 
-![Methodology](img/Methodology.png)
-
 In the last five years the strength of computer chess programs has grown immensely. They have a place with easygoing games, and it requires two players to continue on a chessboard of size 8 * 8. The guidelines of this game are straightforward yet have boundless ways to move pieces, thus each step is urgent to the player. 
 
 Initially we are working with 2 player game. Later we will step up with multiplayers with similar algorithm. This program for chess will be the most efficient one till now in C language. The program supports a reasonable number of functions and the game will be in 2D. This game will be played in same system by the two different players.
@@ -31,6 +29,7 @@ Initially we are working with 2 player game. Later we will step up with multipla
 1. [Sarthak Jain](https://github.com/mrsarthak001)
 2. [Siddharth Chopra](https://github.com/snapsid)
 3. [Muskaan Madan](https://github.com/mackiie)
+4. [Manvi Kulshrestha](https://github.com/Manvikul)
 ---
 
 Full documentation of the project is available under [Project Synopsis](Synopsis_Report/SynopsisReport.pdf)
